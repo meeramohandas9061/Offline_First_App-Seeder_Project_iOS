@@ -1,0 +1,6 @@
+framework module Pods_Offline_First_App_Seeder_Project {
+  umbrella header "Pods-Offline-First-App-Seeder-Project-umbrella.h"
+
+  export *
+  module * { export * }
+}
